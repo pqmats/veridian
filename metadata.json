@@ -1,0 +1,7 @@
+{
+  "name": "Veridian - Controle Financeiro Inteligente",
+  "description": "Uma plataforma moderna de gestão financeira com previsões inteligentes e design focado na clareza do seu patrimônio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
